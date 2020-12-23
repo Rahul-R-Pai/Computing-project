@@ -14,4 +14,6 @@ The result of the output is printed along with the scores of that round and user
 
 The user can keep on playing until the first to reach the maximum score wins the game.
 
-THe user can then choose to either play again or exit the game.
+The user can then choose to either play again or exit the game.
+
+If the user chooses play again, the exit button will still be visible in case the user wants to exit in the middle of the game.
